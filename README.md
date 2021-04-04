@@ -1,5 +1,5 @@
 # fai
-Presentation and MSAccess file about the "Sherlock" which was an implementation of a survey/research system for sales force diagnostics.
+Presentation and MSAccess file about the "Sherlock" which was an implementation of a survey/research system for sales force diagnostics made in 2009.
 
 ## Welcome to my github samples code - FAI
 
