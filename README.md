@@ -13,3 +13,6 @@ So I've just upload these two files:
 
 1. Sherlock Telemetria Fai_v2.pptx - The powerpoint presentation (did at same time when I was coding) explaining all the concepts behind the implementation.
 2. Nova Ferramenta.accdb - MSAcces with the front-end implementation and script calls to the database. (Maybe I can extract the VBAs from this in a future).
+
+
+The VBA codes in MSAccess and MSExcel was used for me in a lot of automation since 2005 to 2010 in my work as a business analyst in Unibanco.
