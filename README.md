@@ -15,6 +15,6 @@ So I've just upload these two files:
 2. Nova Ferramenta.accdb - MSAcces with the front-end implementation and script calls to the Scherlock database. (Maybe I can extract the VBAs from this in a future).
 3. Dispersao - an example of report automatic made from VBA in FAI.
 
-<img width=“964” alt=“Sherlock Blueprint" src="https://github.com/zeluizgo/fai/blob/main/sherlok%20-%20blueprint.png">
-
+![BluePrint Sherlock](https://github.com/zeluizgo/fai/blob/main/sherlok%20-%20blueprint.png)
+                                                                                                                 
 The VBA codes in MSAccess and MSExcel was used for me in a lot of automation since 2005 to 2010 in my work as a business analyst in Unibanco.
